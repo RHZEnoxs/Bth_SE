@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_c4d9e3f44a4b6437fd59bec70b631f0500fe6fcb.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_3d3a25256dadc0d5c889a76469f7c683cce1e591.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_fa4a15d10dbf181e3ee6662045443e03a5e78b55.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_915d72da3004c31c68595cdc133ea34baf2faa10.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_8db93c31c6cc9e4e54a62d9af72a19473769b9cf.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e2c19bc5d3ee696c2554f9a59ee1bf7f409192ad.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_94fba446c95a49649016174bea59ef088fb82669.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_58690f0a6ac99bde64a665f089305b904ce116b5.jar" />
+    </item>
+    <item
+        jar="D:\Desktop_Programmer\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Desktop_Workspace\Android_WorkSpace\Example\Bth_SE\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_edcc9a059d101051c950a45e9d27a179d3a22153.jar" />
+    </item>
+
+</items>

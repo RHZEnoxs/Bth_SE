@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bluetooth.bth_se.fragment.jay_control"
+    android:orientation="vertical"
+    android:background="@color/enoxs_yellow">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_input"
+        android:textColor="@color/enoxs_white"
+        android:text="48 65 6C 6C 6F 57 6F 72 64 0A"
+        android:inputType="textCapCharacters"
+        android:digits="0123456789ABCDEFabcdef "
+        android:maxLength="29"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:id="@+id/btn_send"
+        android:textColor="@drawable/btn_text"
+        android:background="@drawable/btn_reback"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Auto"
+            android:id="@+id/cbx_auto"
+            android:checked="false"
+            android:textColor="@color/enoxs_white"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:id="@+id/cbx_edit"
+            android:checked="false"
+            android:textColor="@color/enoxs_white" />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recy_view"
+        android:layout_weight="1" />
+
+</LinearLayout>
